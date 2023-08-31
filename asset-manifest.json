@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/DroidXTemporyCheck/static/css/main.b2239161.css",
-    "main.js": "/DroidXTemporyCheck/static/js/main.a3e88590.js",
+    "main.css": "/DroidXTemporyCheck/static/css/main.3c58fbf1.css",
+    "main.js": "/DroidXTemporyCheck/static/js/main.38cafcc3.js",
     "static/js/787.daa39da0.chunk.js": "/DroidXTemporyCheck/static/js/787.daa39da0.chunk.js",
     "static/media/s20.png": "/DroidXTemporyCheck/static/media/s20.44f9d19d36da5eafb9c5.png",
+    "static/media/androidFrame.png": "/DroidXTemporyCheck/static/media/androidFrame.7f5ac3b796352189b57b.png",
     "static/media/bg.png": "/DroidXTemporyCheck/static/media/bg.0f7efad3f50693ab0ec5.png",
     "static/media/HomeScreen.jpg": "/DroidXTemporyCheck/static/media/HomeScreen.0d25fd9b1a54261cc10c.jpg",
     "static/media/Settings.jpg": "/DroidXTemporyCheck/static/media/Settings.10f8120e864e1ddb8075.jpg",
@@ -11,12 +12,12 @@
     "static/media/DroidUI.jpg": "/DroidXTemporyCheck/static/media/DroidUI.0009190fee33387089a8.jpg",
     "static/media/QSPANEL.jpg": "/DroidXTemporyCheck/static/media/QSPANEL.39cd950256bf3a5119aa.jpg",
     "index.html": "/DroidXTemporyCheck/index.html",
-    "main.b2239161.css.map": "/DroidXTemporyCheck/static/css/main.b2239161.css.map",
-    "main.a3e88590.js.map": "/DroidXTemporyCheck/static/js/main.a3e88590.js.map",
+    "main.3c58fbf1.css.map": "/DroidXTemporyCheck/static/css/main.3c58fbf1.css.map",
+    "main.38cafcc3.js.map": "/DroidXTemporyCheck/static/js/main.38cafcc3.js.map",
     "787.daa39da0.chunk.js.map": "/DroidXTemporyCheck/static/js/787.daa39da0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2239161.css",
-    "static/js/main.a3e88590.js"
+    "static/css/main.3c58fbf1.css",
+    "static/js/main.38cafcc3.js"
   ]
 }
